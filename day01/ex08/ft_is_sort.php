@@ -7,3 +7,4 @@ function ft_is_sort($arr)
         return 1;
     return 0;
 }
+?>
